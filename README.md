@@ -1,10 +1,10 @@
 # 🔒 Automatización de Control de Accesos mediante Python
 
 <p align="center">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Jupyter" />
-  <img src="https://shields.io🛡️-blue?style=for-the-badge" alt="SecOps" />
-  <img src="https://shields.io🔑-green?style=for-the-badge" alt="IAM" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SecOps-0000FF?style=for-the-badge&logo=shield&logoColor=white" alt="SecOps" />
+  <img src="https://img.shields.io/badge/IAM-008000?style=for-the-badge&logo=key&logoColor=white" alt="IAM" />
 </p>
 
 Algoritmo en Python para la actualización automática de listas de acceso (`allow_list`) mediante la eliminación de IPs no autorizadas.
